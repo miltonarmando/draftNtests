@@ -1,2 +1,5 @@
-AIntel/.
-FleetFlow/.
+AIntel/
+FleetFlow/
+venv/
+RemoteStream/build/
+*.spec
