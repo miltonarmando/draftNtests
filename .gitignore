@@ -3,3 +3,4 @@ FleetFlow/
 venv/
 RemoteStream/build/
 *.spec
+*.exe
